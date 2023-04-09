@@ -2,8 +2,6 @@ h1{
     font-family: 'Dancing Script', cursive;
 }
 
-
-
 .carousel-item img{
     width: 100%;
     height:92.3vh;
@@ -12,9 +10,32 @@ h1{
 
 
 .bg-custom{
-    background: lightgreen;
+    background: rgb(183, 209, 240);
 }
 
 .card i{
     width: 70px;
 }
+
+.form-floating{
+    position: relative;
+}
+
+.icon{
+    position: absolute;
+    top: calc(50%);
+    left: 1.25rem;
+}
+
+.form-floating label,
+ .form-floating .form-control{
+    left: .5rem;
+    padding-left: 3.5rem;
+}
+
+.icon-textarea{
+    position: absolute;
+    top: 1.8rem;
+    left: 1.25rem;
+}
+
