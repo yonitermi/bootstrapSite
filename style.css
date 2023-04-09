@@ -8,7 +8,9 @@ h1{
     object-fit: cover;
 }
 
-
+.navbar{
+    font-family: 'Dancing Script', cursive;
+}
 .bg-custom{
     background: rgb(183, 209, 240);
 }
