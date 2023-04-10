@@ -11,9 +11,16 @@ h1{
 .navbar{
     font-family: 'Dancing Script', cursive;
 }
+
+
 .bg-custom{
-    background: rgb(183, 209, 240);
+    background: rgb(194, 211, 231);
 }
+
+.navbar-toggler i{
+    color:white;
+}
+
 
 .card i{
     width: 70px;
